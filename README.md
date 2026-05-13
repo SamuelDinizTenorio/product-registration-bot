@@ -1,13 +1,15 @@
 # 🤖 Task Automation with Python & PyAutoGUI
 
-![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
-![PyAutoGUI](https://img.shields.io/badge/Library-PyAutoGUI-green.svg)
+![Python](https://img.shields.io/badge/python-3.12+-blue.svg?logo=python&logoColor=white)
+![Venv](https://img.shields.io/badge/venv-isolated-blue?logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Platform](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-lightgrey.svg)
 
 This project features a GUI (Graphical User Interface) automation bot designed for bulk product processing and registration from databases. The system was engineered with a focus on **resilience**, **traceability**, and **security**.
 
 ## 🚀 Technologies
-
+  
 - **Python 3.12+**: Core language.
 - **PyAutoGUI**: GUI automation (mouse and keyboard interaction).
 - **Pandas**: Data processing and manipulation using DataFrames.
